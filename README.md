@@ -6,6 +6,8 @@
 
 **Bring back Spotify's Daily Drive — your personal mix of podcasts and music, updated automatically.**
 
+[**Listen to a live example**](https://open.spotify.com/playlist/34nCFkIuIkiFF4W5dJKiTi) — updated twice daily with NPR News, The Journal, Freakonomics, and a 50/50 mix of top tracks and genre discovery.
+
 Spotify [officially killed Daily Drive](https://community.spotify.com/t5/Music-Discussion/Is-Daily-Drive-gone/td-p/7377710) on March 17, 2026. This project recreates it. It runs on any Linux machine (Raspberry Pi, Orange Pi, old laptop, cloud server) and automatically refreshes a Spotify playlist with your favorite podcasts interleaved with music.
 
 > **Important:** Spotify now requires a **Premium account** for Developer Mode apps and limits you to **5 authorized users** per app. This is fine for personal use — it's a free API, you just need Premium. See [Spotify's Feb 2026 changes](https://developer.spotify.com/documentation/web-api/tutorials/february-2026-migration-guide) for details.
